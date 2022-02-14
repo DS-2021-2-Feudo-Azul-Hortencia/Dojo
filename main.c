@@ -1,5 +1,5 @@
 #include <stdio.h>
 int main(){
-printf("Olá, grupo! Leonardo testando")
+printf("Olá, grupo! ;D")
 return 0;
 }
